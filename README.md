@@ -6,4 +6,4 @@ I'm **Mendy Segal**, a software developer passionate about **writing clean, effi
 - 🌱 **Learning:** Modern C++ features, algorithms, and software design  
 - 👯 **Open to:** Collaborating on software projects  
 
-📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/mendysegal/)
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/mendy-segal/)
