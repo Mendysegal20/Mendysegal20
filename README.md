@@ -1,6 +1,6 @@
-## 👨‍💻 Hi there!
+## Hi 👋, I'm Mendy Segal
 
-I'm **Mendy Segal**, a software developer passionate about **writing clean, efficient C++ code** and **building practical software solutions**.  
+Backend developer passionate about writing clean, efficient, and readable code.
 
 - 🔭 **Currently working on:** C++ projects and simulations  
 - 🌱 **Learning:** Modern C++ features, algorithms, and software design  
