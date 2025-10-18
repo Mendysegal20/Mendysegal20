@@ -1,9 +1,15 @@
 ## Hi 👋, I'm Mendy Segal
 
-Backend developer passionate about writing clean, efficient, and readable code.
+Backend developer. Passionate about writing clean, efficient, and readable code.
 
-- 🔭 **Currently working on:** C++ projects and simulations  
-- 🌱 **Learning:** Modern C++ features, algorithms, and software design  
-- 👯 **Open to:** Collaborating on software projects  
+🚀 **Currently working on:**
+C++ projects and simulations
 
-📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/mendy-segal/)
+🌱 **Learning:**
+Advanced software architecture, algorithms, and performance optimization
+
+🤝 **Open to collaborate on:** 
+Backend or system development projects
+
+📫 **Reach me:** 
+[LinkedIn](https://www.linkedin.com/in/mendy-segal/)
